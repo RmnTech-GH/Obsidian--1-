@@ -40,14 +40,12 @@
             "id": "174334e45be69174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "주1일제 세미나/오늘 배운것 Claude Code (2026-02-03).md",
-                "mode": "source",
-                "source": false
+                "file": "Attached file/agent-orchestration.png"
               },
-              "icon": "lucide-file",
-              "title": "오늘 배운것 Claude Code (2026-02-03)"
+              "icon": "lucide-image",
+              "title": "agent-orchestration"
             }
           }
         ],
@@ -230,8 +228,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "174334e45be69174",
+  "active": "c5ed8c0335951e6a",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20260121121445.png",
+    "Attached file/Pasted image 20260121122008.png",
+    "주1일제 세미나/오늘 배운것 Claude Code (2026-02-03).md",
     "Attached file/agent-orchestration.png",
     "Attached file/agent-orchestration.mmd",
     "주1일제 세미나/에이전트 오케스트레이션 설명.md",
@@ -239,7 +240,6 @@
     "주1일제 세미나/1차 숙제 결과물.md",
     "주1일제 세미나/퇴직준비세미나_Phase1_사전과제_공지 (1).md",
     "주1일제 세미나/Phase1_기본환경설정_도구설치 (1).md",
-    "주1일제 세미나/오늘 배운것 Claude Code (2026-02-03).md",
     "CLAUDE.md",
     "주1일제 세미나/1. 연구배경.md",
     "주1일제 세미나/세미나 본수업",
@@ -252,8 +252,6 @@
     "Resources/세미나 설치 시 주의사항 정리.md",
     "주1일제 세미나/퇴직준비세미나_1회차_세미나_공지.md",
     "Attached file/Git 설치 숙제 결과물_이건희.png",
-    "Attached file/Pasted image 20260121122008.png",
-    "Attached file/Pasted image 20260121121445.png",
     "Attached file/Github 파일 업로드 스크린샷 결과물_이건희.png",
     "Attached file/Claude 설치 숙제 결과물_이건희 1.png",
     "Attached file/Claude 설치 숙제 결과물_이건희.png",
